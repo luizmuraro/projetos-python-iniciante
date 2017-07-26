@@ -1,1 +1,1 @@
-Primeiro exercício de uma série de cinco exercício de introdução à Java.
+Exercícios para aprendizado da linguagem Python
